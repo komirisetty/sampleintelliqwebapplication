@@ -1,0 +1,12 @@
+<xml>
+<web-app>
+<servlet>
+    <servlet-name>uregistration</servlet-name>
+    <servlet-path>uregistration</servlet-path>
+</servlet>
+<servlet-mapping>
+    <servlet-name>uregistration</servlet-name>
+    <url-pattern>/uregistration</url-pattern>
+</servlet-mapping>
+</web-app>
+</xml>
